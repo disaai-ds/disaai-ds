@@ -47,9 +47,9 @@
   <b>Latest Posts</b>
 </p>
 
-- 🪄 [Why We’re Building DiSa.AI](blogs/2025-08-01-welcome.md)  
-- 🚀 [A Tiny AI Marketing Workflow That Actually Ships](blogs/2025-08-10-ai-marketing.md)  
-- 🎨 [Designing a Pink-Purple Brand That Feels Bright, Not Noisy](blogs/2025-08-20-branding.md)  
+- 🪄 https://github.com/disaai-ds/disaai-ds/blob/main/Post%201_%20Brand%20ideation%2C%20Email%20and%20Ad%20Campaigns%20(1).pdf
+- 🚀 https://github.com/disaai-ds/disaai-ds/blob/main/Post%201_%20Brand%20ideation%2C%20Email%20and%20Ad%20Campaigns%20(1).pdf  
+
 
 
 
