@@ -51,10 +51,7 @@
 - 🚀 [A Tiny AI Marketing Workflow That Actually Ships](blogs/2025-08-10-ai-marketing.md)  
 - 🎨 [Designing a Pink-Purple Brand That Feels Bright, Not Noisy](blogs/2025-08-20-branding.md)  
 
-👉 **How to add blogs:**  
-1. Create a folder in this repo called `blogs/`  
-2. Add a Markdown file for each blog post (`YYYY-MM-DD-title.md`)  
-3. Link them above under **Latest Posts**  
+
 
 ---
 
