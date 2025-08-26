@@ -1,6 +1,6 @@
 <!-- Top banner / rectangular logo -->
 <p align="center">
-  <img src="assets/disa-banner.png" width="900" alt="DiSa.AI — Two Girls on a Mission to AI">
+  <img src="https://github.com/disaai-ds/disaai-ds/blob/main/DiSa.AI%20GitHub%20Banner%20Reframed.png" width="900" alt="DiSa.AI — Two Girls on a Mission to AI">
 </p>
 
 <h1 align="center">✨ DiSa.AI — Two Girls on a Mission to AI ✨</h1>
