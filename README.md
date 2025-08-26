@@ -47,10 +47,8 @@
   <b>Latest Posts</b>
 </p>
 
-- 🪄 https://github.com/disaai-ds/disaai-ds/blob/main/Post%201_%20Brand%20ideation%2C%20Email%20and%20Ad%20Campaigns%20(1).pdf
-- 🚀 https://github.com/disaai-ds/disaai-ds/blob/main/Post%201_%20Brand%20ideation%2C%20Email%20and%20Ad%20Campaigns%20(1).pdf  
-
-
+- 🚀 [Post 1 — Brand Ideation, Email and Ad Campaigns](https://github.com/disaai-ds/disai-ds/blob/main/Post%201_%20Brand%20Ideation%2C%20Email%20and%20Ad%20Campaigns%20(1).pdf)  
+- 🎨 [Post 2 — Creative Design with AI](https://github.com/disaai-ds/disai-ds/blob/main/Post%202_%20Creative%20Design%20with%20AI.pdf)
 
 
 ---
