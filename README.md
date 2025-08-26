@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#-blog"><img src="https://img.shields.io/badge/Blog-Read%20Posts-f06292?style=for-the-badge&logo=readme&logoColor=white" alt="Blog"></a>
+ 
   <a href="mailto:dishtisoni04@gmail.com"><img src="https://img.shields.io/badge/Email-Dishti-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dishti"></a>
   <a href="mailto:sakshi.msharma072@gmail.com"><img src="https://img.shields.io/badge/Email-Sakshi-FF9800?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sakshi"></a>
   <a href="https://www.linkedin.com/in/dishtisoni"><img src="https://img.shields.io/badge/LinkedIn-Dishti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Dishti"></a>
@@ -25,3 +25,5 @@
 - **Product & Web:** quick prototypes, landing pages, UX flows  
 - **Data & Insights:** tiny datasets → clear stories & dashboards  
 - **Sharing & Teaching:** posts, notes, and step-by-step mini guides
+
+  
