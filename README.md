@@ -44,12 +44,14 @@
 </p>
 
 <p align="center">
-  <b>Latest Posts</b>
+  <b>📢Latest Posts-Marketing</b>
 </p>
 
 - 🚀 [Post 1 — Brand Ideation, Email and Ad Campaigns](https://github.com/disaai-ds/disai-ds/blob/main/Post%201_%20Brand%20Ideation%2C%20Email%20and%20Ad%20Campaigns%20(1).pdf)  
 - 🎨 [Post 2 — Creative Design with AI](https://github.com/disaai-ds/disai-ds/blob/main/Post%202_%20Creative%20Design%20with%20AI.pdf)
-
+- 📝 [Post 3 — AI Prompting Guide for Resume Builder](https://github.com/disaai-ds/disaai-ds/blob/main/Prompting%20guide_%20AI%20Resume%20Builder%20_%20Career%20Coach.pdf)
+- 🎂 [Post 4 —Cake in a Jar Product Marketing Campaign for Insta and Tiktok](https://github.com/disaai-ds/disaai-ds/blob/main/Cake%20in%20a%20Jar%20product%20campaign.pdf)
+           
 
 ---
 
